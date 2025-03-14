@@ -20,5 +20,3 @@ A simple, quick blog template for [11ty](https://www.11ty.dev/)!
 ### That sounds awesome!
 I think so, too! If you want to get started, you can read the [installation guide](posts/example_posts/installation), but feel free to click around and explore instead. If you're wondering why this site is structured like a blog, it's because it *is* the template! Neat, huh?
 
-<div id="wcb" class="carbonbadge"></div>
-<script src="https://unpkg.com/website-carbon-badges@1.1.3/b.min.js" defer></script>
