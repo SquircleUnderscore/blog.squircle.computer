@@ -1,11 +1,11 @@
 @font-face {
-    font-family: 'Roboto';
-    src: url('../../fonts/roboto.ttf');
+    font-family: 'Rubik';
+    src: url('../../fonts/rubik.ttf');
 }
 
 :root {
-    --main-bg-color: #fff;
-    --main-fg-color: #000;
+    --main-bg-color: #FFF9EB;
+    --main-fg-color: #222;
 }
 
 html {
@@ -15,7 +15,7 @@ html {
 body {
     background-color: var(--main-bg-color);
     color: var(--main-fg-color);
-    font-family: 'Roboto', 'sans-serif';
+    font-family: 'Rubik', 'sans-serif';
 }
 
 nav,
@@ -91,5 +91,7 @@ ol li ul li::marker {
 }
 
 .lastupdate::after {
-    content: " ❇ "
+    content: " 🍄 "
 }
+
+

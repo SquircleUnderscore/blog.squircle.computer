@@ -6,15 +6,15 @@
 
     // a short description of your blog
     // appears on the link preview
-    "siteDescription": "A simply-sweet blog template!",
+    "siteDescription": "My personal blog",
 
     // the public URL of your blog
     // this is necessary for the link preview & RSS feed to function correctly
-    "siteURL": "https://squircle.computer",
+    "siteURL": "https://blog.squircle.computer",
 
     // your name
     // appears on the footer
-    "siteAuthor": "Paul",
+    "siteAuthor": "squircle.computer",
     
     // a two letter locale code indicating your site's primary language
     // e.g. "en", "fr", "es"... for a full list see https://www.w3schools.com/tags/ref_language_codes.asp

@@ -17,10 +17,10 @@ exclude-result-prefixes="atom"
     <body>
         <header>
             <h1><xsl:value-of select="atom:feed/atom:title" /> RSS Feed</h1>
-            <h2><xsl:value-of select="atom:feed/atom:subtitle" /> </h2>
+           
             <xsl:choose>
                 <xsl:when test="atom:feed/atom:author/atom:email">
-                    <p>by
+                    <p>email:
                         <a href="mailto:{atom:feed/atom:author/atom:email}">
                         <xsl:value-of select="atom:feed/atom:author/atom:name" />
                         </a>

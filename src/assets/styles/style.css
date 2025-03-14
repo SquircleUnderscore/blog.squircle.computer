@@ -128,3 +128,48 @@ img[src*='berrysprite.png'] {
     float: right;
     padding-right: 1rem;
 }
+
+
+/* BS COMMENTS */
+
+bluesky-comments {
+    --bluesky-bg-color: #FFF9EB;
+    --bluesky-font-family: Verdana, Geneva, sans-serif;
+    --bluesky-font-size: 13.5px;
+    --bluesky-text-color: #000000;
+    --bluesky-handle-color: #828282;
+    --bluesky-footer-text-color: #828282;
+    --bluesky-border-color: transparent;
+    --bluesky-hover-bg: #dcd6cb;
+    --bluesky-spacing-xs: 2px;
+    --bluesky-spacing-sm: 4px;
+    --bluesky-spacing-md: 6px;
+    --bluesky-footer-font-size: 10px;
+    --bluesky-icon-size: 12px;
+    --bluesky-avatar-size: 16px;
+    --bluesky-reply-border-width: 1px;
+    --bluesky-reply-border-color: #e6e6df;
+
+  }
+
+bluesky-comments::part(avatar) {
+    border-radius: 3px;
+}
+
+bluesky-comments::part(comment-header) {
+    font-size: 10.5px;
+    color: #828282;
+    margin-bottom: 4px;
+}
+
+bluesky-comments::part(comment-content) {
+    line-height: 1.4;
+    margin-left: 4px;
+}
+
+bluesky-comments::part(comment-footer) {
+    font-size: 10px;
+    padding: 2px 0;
+    opacity: 0.8;
+    margin-left: 4px;
+}
