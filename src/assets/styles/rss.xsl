@@ -47,7 +47,7 @@ exclude-result-prefixes="atom"
             font-size: 18px;
             scrollbar-gutter: stable;
             font-family: 'sans-serif';
-            background-color: #b3b3b3;
+            background-color: #F5E5D2;
             font-family: 'monospace';
         }
 

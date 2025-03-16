@@ -8,8 +8,9 @@
 }
 
 :root {
-    --main-bg-color: #FFF9EB;
-    --main-fg-color: #222;
+    --main-bg-color: #F4E6D2;
+    --main-fg-color: #171515;
+    --transition-duration: 0.3s;
 }
 
 html {
@@ -83,6 +84,16 @@ a:hover,
 a:focus {
     opacity: 50%;
 }
+a, nav a {
+   
+    display: inline-block; 
+    transition: transform var(--transition-duration) ease;
+  }
+  
+  a:hover, nav a:hover {
+    transform: translateY(-1.5px);
+    filter: brightness(0.6);
+  }
 
 ul li ul,
 ol li ul {
@@ -99,3 +110,7 @@ ol li ul li::marker {
 }
 
 
+/* Links */
+
+  
+  

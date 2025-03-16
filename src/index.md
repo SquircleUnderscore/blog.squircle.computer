@@ -1,22 +1,14 @@
 ---
-title: Welcome to Strawberry Starter!
+title: Welcome to Squircle Lab!
 date: 2024-01-01
 layout: layout.html
 ---
-A simple, quick blog template for [11ty](https://www.11ty.dev/)!
-![pixel art of a strawberry](/assets/images/berrysprite.png)
+I created this to share my discoveries in a more concise and "professional" way than my main [website](https://squircle.computer/)... which, let's be honest, is pretty chaotic! 😆  
 
-## Features:
-- Write locally, on your computer!
-    - All you need is a terminal & your favorite text editor
-    - See your changes in realtime with a local web server!
-- No HTML experience necessary!
-    - Posts are written in Markdown, a really intuitive format
-    - Only edit HTML if you really want to
-- One-command upload to [Neocities](https://neocities.org/)
-    - Upload directly to a site or to a subdirectory
+Lots of posts are coming, so feel free to add me to your [favorite RSS reader](https://blog.squircle.computer/feed.xml) or get a small [email update once a month](https://forms.gle/GPB3bhQwVBGDMyrg7).  
 
+> All my articles are written in French and then translated by me into weird English before being corrected by an AI.  
 
-### That sounds awesome!
-I think so, too! If you want to get started, you can read the [installation guide](posts/example_posts/installation), but feel free to click around and explore instead. If you're wondering why this site is structured like a blog, it's because it *is* the template! Neat, huh?
-
+## Posts:  
+- **MacOS**  
+    - [How to set up Asahi Linux like a pro](http://blog.squircle.computer/posts/Asahi/) II [🇫🇷](http://localhost:1234/posts/Asahi/)  

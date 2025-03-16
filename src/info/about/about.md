@@ -2,22 +2,27 @@
 title: About
 date: 2025-01-20
 ---
-Strawberry Starter is an [11ty](https://www.11ty.dev/) blog template that came about as I was thinking about the recent push towards personal websites. There's been growing sentiment in my corner of the internet that social media is bad; that that we should ditch it in favor of blogs and personal homepages, but... there's not many great options out there if you're a beginner to HTML/CSS/JS!
+<div id="content">    
+    
 
-Lately I've been doing a lot of dev, and decided I could put some of my knowledge to work, adding to the pool of available resources.
 
-My hope for this template is that someone with little experience can download and use it, and that it'll spur them towards a path of learning about HTML and CSS!
+<img style="float: right; margin-left: 2em; width: 256px; max-width: 50%; " src="/assets/images/squircle.png" title="it's me!" />
 
-## Special thanks
-- [Zonelets](https://zonelets.net/)
-    - Zonelets is a huge inspiration to me! Part of my design goal for Strawberry Starter was basically "Zonelets but without needing to write HTML".
-- [11ty](https://www.11ty.dev/)
-    - Finally, static site generation that's good! This is the most intuitive SSG I've used and it has totally rekindled my love for webdev.
-- [Foto](https://fotocopiadora.itch.io/)
-    - For being wonderful and helping out when I get frustrated. Thanks for contributing a theme, too ❤️
-- [Sean](https://seans.site/)
-    - For always taking a look at my code, fixing bugs, and teaching me lots.
-- [Emma](https://emmadaues.neocities.org/), [IAN](https://ianmartin.rocks/), [Rumpel](https://rumpel.neocities.org/), and [S.T.](https://nightelectricity.com/)
-    - For being helpful ~~guinea pigs~~ testers 😎 and contributing critical bug reports/pull requests.
-- My friends who blog
-    - For being excited about this project and cheering me on!
+Hi! My name is [Squircle](https://squircle.computer/) (not my real name, btw). You can use **he/him** pronouns, but honestly, use whatever you like—it doesn't matter much to me!  
+
+Born in France, English is not my first language, but this blog helps me improve. (I hope it's still easy to read for you!)  
+
+## Find me around the net  
+
+* [Website](https://squircle.computer/)  
+* [Bluesky](https://bsky.app/profile/squircle.computer)  
+* [Discord](https://discord.com/users/871735378837667880)  
+
+### Special Thanks  
+
+* [Strawberry Starter](https://strawberrystarter.neocities.org/)  
+    * Without this project, none of this would have been possible! If you want to create a blog quickly, I highly recommend it. If IDEs feel too complicated, [Bearblog](https://bearblog.dev/) is a great alternative.  
+* [Bluesky-comments-tag](https://github.com/ascorbic/bluesky-comments-tag)  
+    * I wanted a comment section without using Disqus. This project makes it possible to integrate Bluesky comments without adding extra packages.  
+
+`Thanks for reading! <3`  

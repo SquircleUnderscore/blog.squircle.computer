@@ -133,7 +133,7 @@ img[src*='berrysprite.png'] {
 /* BS COMMENTS */
 
 bluesky-comments {
-    --bluesky-bg-color: #FFF9EB;
+    --bluesky-bg-color: #F5E5D2;
     --bluesky-font-family: Verdana, Geneva, sans-serif;
     --bluesky-font-size: 13.5px;
     --bluesky-text-color: #000000;
@@ -173,3 +173,4 @@ bluesky-comments::part(comment-footer) {
     opacity: 0.8;
     margin-left: 4px;
 }
+
